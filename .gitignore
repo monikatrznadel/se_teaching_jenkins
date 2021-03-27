@@ -14,3 +14,4 @@ jenkins/updates/*
 jenkins/upgraded
 jenkins/init.groovy.d/*
 jenkins/users/*
+jenkins/*
